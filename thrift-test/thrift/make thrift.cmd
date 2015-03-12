@@ -1,0 +1,1 @@
+thrift -r -gen java -o ../src\main\java\ NewsModel.thrift
